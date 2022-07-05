@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
--
+
 - 🌱 I’m currently learning java.
 - 👯 I’m looking to collaborate on web development.
 - 🤔 I’m looking for help with ...
