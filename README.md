@@ -9,8 +9,7 @@
  
 
 <p align = "center">I am a 1st year B.Tech student. I love to web develop . I love cricket and online games .I believe in constant learning and exploring new things.  </p>
-<p align = "center">I am a 1st year B.Tech student. I love to web develop . I love cricket and online games .I believe in constant learning and exploring new things.  </p>
-
+ 
 ----
 <br>
 
