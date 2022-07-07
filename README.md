@@ -16,7 +16,8 @@
  
 - 👯 I’m looking to collaborate with Web Developer.
 - 💬 Ask me about HTML, CSS, C.
- 
+-    How to reach me :
+-    vg980514@gmail.com
 <br>
 
  
